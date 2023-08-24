@@ -39,15 +39,7 @@
     },
     "MAIN_CHANNEL": {
       "description": "Main channel username to be shown in start",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL_2":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
-    },
-    "FORCE_SUB_CHANNEL_1":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
