@@ -1,0 +1,1213 @@
+[20-Aug-23 15:29:38 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 15:29:38 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 15:29:38 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1001942518325
+[20-Aug-23 15:29:38 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 15:30:40 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 15:30:40 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 15:30:40 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1001942518325
+[20-Aug-23 15:30:40 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 15:31:21 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 15:31:21 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 15:31:21 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: 1942518325
+[20-Aug-23 15:31:21 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 15:31:42 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 15:31:42 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 15:31:42 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: 1942518325
+[20-Aug-23 15:31:42 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 15:32:46 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 15:32:46 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 15:32:46 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: 0
+[20-Aug-23 15:32:46 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 15:33:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:18:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:21:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:30:26 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:39:15 - WARNING] - bot - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "messages.ExportChatInvite")
+[20-Aug-23 16:39:15 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[20-Aug-23 16:39:15 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: Anime_Edge
+[20-Aug-23 16:39:15 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 16:42:09 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:44:28 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 16:46:59 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:04:58 - WARNING] - bot - '<' not supported between instances of 'NoneType' and 'int'
+[20-Aug-23 17:04:58 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'None'!
+[20-Aug-23 17:04:58 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'None' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:04:58 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:11:36 - WARNING] - bot - 'Bot' object has no attribute 'invitelinks'
+[20-Aug-23 17:11:36 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'Anime_Edge'!
+[20-Aug-23 17:11:36 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'Anime_Edge' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:11:36 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:12:27 - WARNING] - bot - 'Bot' object has no attribute 'invitelinks'
+[20-Aug-23 17:12:27 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'Anime_Edge'!
+[20-Aug-23 17:12:27 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'Anime_Edge' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:12:27 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:12:51 - WARNING] - bot - 'Bot' object has no attribute 'invitelinks'
+[20-Aug-23 17:12:51 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'Anime_Edge'!
+[20-Aug-23 17:12:51 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'Anime_Edge' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:12:51 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:13:04 - WARNING] - bot - 'Bot' object has no attribute 'invitelinks'
+[20-Aug-23 17:13:04 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'Anime_Edge'!
+[20-Aug-23 17:13:04 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'Anime_Edge' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:13:04 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:13:44 - WARNING] - bot - 'Bot' object has no attribute 'invitelinks'
+[20-Aug-23 17:13:44 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel 'Anime_Edge'!
+[20-Aug-23 17:13:44 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_USERNAME value for 'Anime_Edge' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:13:44 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:16:14 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:18:01 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:18:09 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:24:09 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:26:56 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:28:48 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[20-Aug-23 17:46:06 - WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[20-Aug-23 17:46:06 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel with ID '1270386911'!
+[20-Aug-23 17:46:06 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL_ID value for '1270386911' and Make sure Bot is Admin in channel with Invite Users via Link Permission
+[20-Aug-23 17:46:06 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[20-Aug-23 17:49:01 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[22-Aug-23 14:07:06 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:08:42 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:11:07 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:14:00 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:37:57 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:43:00 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:52:24 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 14:57:26 - ERROR] - pyrogram.dispatcher - 'InlineKeyboardButton' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 154, in not_joined
+    await message.reply(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 132, in send_message
+    reply_markup=await reply_markup.write(self) if reply_markup else None,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\bots_and_keyboards\inline_keyboard_markup.py", line 62, in write
+    for b in r:
+TypeError: 'InlineKeyboardButton' object is not iterable
+[22-Aug-23 14:59:15 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:00:44 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:00:53 - ERROR] - pyrogram.dispatcher - 'list' object has no attribute 'write'
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 154, in not_joined
+    await message.reply(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 132, in send_message
+    reply_markup=await reply_markup.write(self) if reply_markup else None,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\bots_and_keyboards\inline_keyboard_markup.py", line 63, in write
+    buttons.append(await b.write(client))
+                         ^^^^^^^
+AttributeError: 'list' object has no attribute 'write'
+[22-Aug-23 15:02:45 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:07:33 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:08:16 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:08:26 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:08:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:16:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:19:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:20:23 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:22:25 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:26:10 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 15:32:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:33:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:33:51 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:34:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:34:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 15:34:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:38 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:34:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:34:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:34:51 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:35:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:35:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:35:24 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:27 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:34 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:37 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:40 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:43 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:46 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:49 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:35:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:35:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:36:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:36:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:36:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:37:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:37:02 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:37:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:37:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 15:37:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:21 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:37:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:24 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:37:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:27 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:37:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 15:37:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:37:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:37:50 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:38:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:38:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:38:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:38:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:36 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:39 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:43 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:46 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:49 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:38:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:38:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:16 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:19 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:25 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:34 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:37 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:39:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:39:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 15:39:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:39:59 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:40:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:40:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:40:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:40:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:40:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:40:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:41:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:41:05 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:41:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 15:41:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 15:41:33 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:36 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:39 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:42 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:45 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:48 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:51 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:54 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:57 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:41:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:41:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:00 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:03 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:06 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:09 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:12 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:15 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:18 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:21 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:25 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:31 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:34 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:37 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:40 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:43 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:46 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:49 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:42:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:42:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:11 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:14 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:23 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:38 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:41 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:44 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:47 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:51 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:54 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:57 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:43:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:43:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:00 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:03 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:06 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:09 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:12 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:15 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:18 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:21 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:23 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:24 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:27 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:30 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:33 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:36 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:40 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:43 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:46 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:49 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:51 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:52 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:52 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:53 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:54 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:55 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:55 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:57 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:58 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:44:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:44:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:04 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:13 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:16 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:19 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:22 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:24 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:26 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:29 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:30 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:31 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:32 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:32 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:33 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:34 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:35 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:35 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:37 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:38 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:40 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:41 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:41 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:43 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:44 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:44 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:45 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:46 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:47 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:45:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:45:48 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:58:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:58:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:58:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:58:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:58:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 15:58:20 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 15:58:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:07 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:01:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:10 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:01:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10065] A socket operation was attempted to an unreachable host
+[22-Aug-23 16:01:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 16:46:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:46:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:46:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:46:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:46:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:46:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:46:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:47:00 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:47:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10053] An established connection was aborted by the software in your host machine
+[22-Aug-23 16:47:01 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 16:47:02 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 16:47:03 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:47:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 16:47:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 10051] A socket operation was attempted to an unreachable network
+[22-Aug-23 16:47:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:47:17 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 16:47:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:47:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:47:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[22-Aug-23 16:47:50 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[22-Aug-23 20:56:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:01:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:05:33 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:18:00 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:19:21 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:19:54 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:24:00 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 149, in not_joined
+    await message.reply(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[22-Aug-23 21:25:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:28:03 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:41:28 - WARNING] - bot - Peer id invalid: 1001987257151
+[22-Aug-23 21:41:28 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value 1001987257151
+[22-Aug-23 21:41:28 - INFO] - bot - 
+Bot Stopped. Join https://t.me/Straw_hat_piratess for support
+[22-Aug-23 21:43:18 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 21:49:13 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[22-Aug-23 22:45:20 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:28:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:32:49 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 150, in not_joined
+    await message.reply(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[24-Aug-23 17:35:28 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:37:26 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 150, in not_joined
+    await message.reply(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[24-Aug-23 17:38:41 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:39:20 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 150, in not_joined
+    await message.reply_text(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[24-Aug-23 17:39:27 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 150, in not_joined
+    await message.reply_text(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[24-Aug-23 17:42:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:44:07 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:46:44 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 17:47:09 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:07:38 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:08:53 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:09:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:09:10 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:15:40 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:22:49 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "users.GetFullUser")
+[24-Aug-23 18:22:57 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:24:30 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:25:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:25:17 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:25:24 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:25:33 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:27:18 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:27:29 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:29:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:29:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:52:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 18:55:08 - ERROR] - pyrogram.dispatcher - Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyromod\listen\listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "C:\Users\altam\PycharmProjects\pythonProject\File-Sharing-BotV2-main\File-Sharing-BotV2-main\plugins\start.py", line 152, in not_joined
+    await message.reply_text(
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 959, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 124, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 77, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 361, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 331, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\altam\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ReplyMarkupInvalid: Telegram says: [400 REPLY_MARKUP_INVALID] - The provided reply markup is invalid (caused by "messages.SendMessage")
+[24-Aug-23 19:11:02 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:16:16 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:16:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:19:25 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:27:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:35:33 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:37:15 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:37:39 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:42:48 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:43:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:46:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:49:00 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:50:20 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 19:54:04 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 20:06:21 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
+[24-Aug-23 20:10:31 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/GeekLuffy
