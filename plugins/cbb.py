@@ -13,12 +13,12 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     if data == "about":
         await query.message.edit_text(
             text = f"""<b>╭───────────⍟
-├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='tg://user?id={OWNER_ID}'>Lᴜꜰꜰʏ</a>
+├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='tg://user?id={OWNER_ID}'>Nigga</a>
 ├➽ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
 ├➽ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3</a>
-├➽ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/Monkey_d_luufy>Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ</a>
-├➽ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Edge>Aɴɪᴍᴇ Eᴅɢᴇ</a>
-├➽ Mᴀɪɴ Gʀᴏᴜᴘ : <a href=https://t.me/straw_hat_piratess>Sᴛʀᴀᴡʜᴀᴛ Pɪʀᴀᴛᴇꜱ</a></b>
+├➽ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/kanaoXhizuru>Source</a>
+├➽ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href=https://t.me/AnimeX_Horizon>Aɴɪᴍᴇ Eᴅɢᴇ</a>
+├➽ Mᴀɪɴ Gʀᴏᴜᴘ : <a href=https://t.me/Scout_Legion>Sᴛʀᴀᴡʜᴀᴛ Pɪʀᴀᴛᴇꜱ</a></b>
 ╰───────────────⍟ """,
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
