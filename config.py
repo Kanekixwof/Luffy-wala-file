@@ -5,27 +5,27 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6613285947:AAEV_8_bMS_zbTSgkG8207QMfy4CMPAKYrk")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID","19406037"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "aa8cac013b63982efea11d1370b0151c")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001797213646"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "5910975386"))
-MAIN_CHANNEL = (os.environ.get("OWNER_ID", ""))
+MAIN_CHANNEL = (os.environ.get("OWNER_ID", "5348193047"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "")
-DB_NAME = os.environ.get("DATABASE_NAME", "Edgefilebot")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DATABASE_NAME", "Makima")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -33,7 +33,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI'm here to help! I keep private files in a special channel and share links so others can access them effortlessly.")
 try:
     ADMINS=[]
-    for x in (os.environ.get("ADMINS", "5910975386").split()):
+    for x in (os.environ.get("ADMINS", "6210050767 5910975386 6367644526").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
@@ -56,7 +56,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "🚫 Please avoid direct messages. I'm here solely for file sharing!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(5348193047)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
